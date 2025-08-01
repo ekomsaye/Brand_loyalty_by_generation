@@ -1,6 +1,6 @@
 # Brand Loyalty Analysis: Millennials vs. Generation Z
 
-This repository contains the data analysis project conducted as part of my master's research. The project focuses on comparing **brand loyalty patterns between Millennials and Generation Z**, using Python for statistical modeling, visualization, and interpretation.
+ The project focuses on comparing **brand loyalty patterns between Millennials and Generation Z**, using Python for statistical modeling, visualization, and interpretation.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 You are free to use, modify, and distribute this work with proper attribution.
