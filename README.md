@@ -2,6 +2,9 @@
 
 This repository contains the data analysis project conducted as part of my master's research. The project focuses on comparing **brand loyalty patterns between Millennials and Generation Z**, using Python for statistical modeling, visualization, and interpretation.
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+You are free to use, modify, and distribute this work with proper attribution.
+
 ## 📌 Project Overview
 
 The study aimed to:
@@ -32,14 +35,23 @@ The study aimed to:
 
 ## 📈 Sample Visuals
 
-_Add graphs or screenshots in this section once you upload them to the `visuals/` folder._
+*📍 Spearman Rank Correlation for Population*
+![Spearman Rank Correlation](images/totalarima.png)
 
-## ✅ Usage
+*📍 Distribution of Satisfaction Scores*
+![Distribution of Satisfaction Scores](images/totalarima.png)
 
-To reproduce the analysis:
+*📍 Trust vs. Loyalty*
+![Trust vs. Loyalty](images/totalarima.png)
 
-```bash
-git clone https://github.com/your-username/brand-loyalty-analysis.git
-cd brand-loyalty-analysis
+*📍 Switch Likelihood by Generation*
+![Switch_Likelihood_by_Generation](images/totalarima.png)
 
+
+## 📬 Connect With Me
+
+- 📧 Email: [esdraskoome@gmail.com](mailto:esdraskoome@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/esdras-koome-micheni-106651338/)  
+- 🧑‍💻 [Upwork Profile](https://www.upwork.com/freelancers/~01bbdaff1dc6ce0241)  
+- ▶ [YouTube Channel](https://www.youtube.com/channel/UCBhBTBAanuBNiQs3r7mwDmA)
 
