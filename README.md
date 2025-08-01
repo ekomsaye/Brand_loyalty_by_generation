@@ -46,8 +46,10 @@ The study aimed to:
 *📍 Distribution of Satisfaction Scores*
 ![Distribution of Satisfaction Scores](images/spreadofsatisfactionscores.png)
 
+
 *📍 Trust vs. Loyalty*
 ![Trust vs. Loyalty](images/trustversusloyalty.png)
+
 
 *📍 Switch Likelihood by Generation*
 ![Switch_Likelihood_by_Generation](images/switchlikelihoodbygeneration.png)
