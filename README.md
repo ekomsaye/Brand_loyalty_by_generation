@@ -41,16 +41,16 @@ The study aimed to:
 ## 📈 Sample Visuals
 
 *📍 Spearman Rank Correlation for Population*
-![Spearman Rank Correlation](images/Spearman_Correlation_heatmap.png)
+![Spearman Rank Correlation](images/spearmancorrelationheatmap.png)
 
 *📍 Distribution of Satisfaction Scores*
-![Distribution of Satisfaction Scores](images/Spread_of_Satisfaction_Scores.png)
+![Distribution of Satisfaction Scores](images/spreadofsatisfactionscores.png)
 
 *📍 Trust vs. Loyalty*
-![Trust vs. Loyalty](images/Trust_vs._Loyalty.png)
+![Trust vs. Loyalty](images/trustversusloyalty.png)
 
 *📍 Switch Likelihood by Generation*
-![Switch_Likelihood_by_Generation](images/Switch_Likelihood_Social_Media_Hours_by_Generation.png)
+![Switch_Likelihood_by_Generation](images/switchlikelihoodbygeneration.png)
 
 
 ## 📬 Connect With Me
