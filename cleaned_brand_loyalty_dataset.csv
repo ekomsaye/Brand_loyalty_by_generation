@@ -1,0 +1,71 @@
+Generation,Age,Gender,Occupation,Education,Social_Media_Hours,Switch_Likelihood,Loyalty,Trust,Commitment,Satisfaction,Quality,SM_Influence
+Gen Z,24,Female,Student,Diploma,5.8,4,2.8,4.0,4.0,3.6,2.4,3.8
+Gen Z,21,Male,Unemployed,Bachelor,4.1,5,3.6,2.4,2.6,2.6,2.4,3.0
+Gen Z,22,Male,Unemployed,Diploma,1.9,3,3.0,4.0,3.2,2.2,2.8,3.4
+Gen Z,24,Male,Employed,Masters,4.5,3,1.8,3.2,3.6,2.8,2.0,2.2
+Gen Z,20,Female,Self-employed,Diploma,1.2,4,2.2,3.6,3.6,2.2,2.0,2.6
+Gen Z,25,Female,Employed,High School,7.4,2,2.4,3.8,2.6,2.4,2.8,3.4
+Gen Z,22,Female,Unemployed,Bachelor,2.8,2,2.4,2.8,2.4,3.2,2.0,2.4
+Gen Z,22,Male,Employed,Bachelor,5.6,5,3.6,1.6,2.0,3.2,3.2,2.2
+Gen Z,24,Male,Employed,High School,3.2,1,2.8,4.2,2.8,2.2,1.6,3.0
+Gen Z,19,Male,Student,Diploma,4.6,5,2.6,4.4,3.4,3.6,3.4,3.2
+Gen Z,20,Male,Self-employed,Masters,4.8,4,2.4,3.8,3.2,3.4,3.0,2.8
+Gen Z,24,Female,Employed,Bachelor,2.3,4,2.8,1.2,3.0,3.2,2.6,2.6
+Gen Z,20,Male,Self-employed,Diploma,7.8,4,3.0,3.2,2.6,2.8,3.2,2.4
+Gen Z,20,Male,Unemployed,Bachelor,6.4,4,2.8,3.4,4.6,2.4,3.4,3.2
+Gen Z,25,Female,Employed,High School,7.6,4,3.2,3.2,4.6,3.6,4.4,3.4
+Gen Z,22,Female,Student,High School,7.3,3,3.2,3.2,3.0,4.0,2.6,2.4
+Gen Z,21,Male,Unemployed,Diploma,5.2,2,3.0,2.0,3.4,2.4,3.0,3.0
+Gen Z,25,Female,Self-employed,Bachelor,7.5,4,3.2,4.6,2.8,2.4,3.6,3.6
+Gen Z,25,Female,Student,High School,1.6,1,3.8,3.6,2.8,3.2,3.4,3.8
+Gen Z,20,Male,Student,High School,2.4,1,3.6,2.4,3.2,2.6,4.2,2.6
+Gen Z,23,Female,Student,High School,1.3,1,2.8,3.0,4.0,2.6,2.2,2.8
+Gen Z,22,Female,Self-employed,Bachelor,3.3,1,3.6,2.6,2.2,4.0,3.4,4.2
+Gen Z,19,Male,Unemployed,High School,3.7,3,2.0,2.6,3.0,3.0,2.6,1.8
+Gen Z,25,Male,Employed,Masters,2.9,1,2.2,1.6,2.6,4.0,3.4,4.0
+Gen Z,21,Female,Student,Masters,6.8,4,1.6,4.0,3.0,3.6,3.2,3.4
+Gen Z,23,Male,Employed,High School,3.5,5,2.8,4.6,2.8,1.4,2.8,2.6
+Gen Z,23,Male,Unemployed,High School,3.0,1,2.6,2.6,2.2,3.2,4.0,4.0
+Gen Z,19,Male,Self-employed,Bachelor,4.8,3,3.6,3.0,2.4,2.2,2.6,2.8
+Gen Z,25,Female,Unemployed,High School,2.0,3,2.8,2.4,2.8,3.0,2.2,2.4
+Gen Z,21,Female,Unemployed,High School,6.6,1,2.4,2.4,3.2,2.8,3.6,2.4
+Gen Z,22,Female,Student,Masters,1.5,5,2.8,3.2,2.4,3.2,3.4,2.8
+Gen Z,18,Female,Self-employed,Bachelor,7.9,1,3.8,3.0,2.6,2.4,2.8,3.8
+Gen Z,21,Female,Self-employed,Diploma,6.4,3,4.4,2.8,2.8,2.8,3.4,2.6
+Gen Z,19,Female,Self-employed,Masters,2.4,2,3.6,2.4,3.0,2.0,2.2,3.0
+Gen Z,23,Male,Employed,Masters,1.0,4,2.6,2.4,3.4,3.4,4.4,2.6
+Millennial,39,Female,Self-employed,High School,6.7,3,3.2,3.2,2.8,3.4,2.8,2.2
+Millennial,38,Female,Student,High School,5.9,1,2.6,2.0,2.2,4.6,3.2,2.6
+Millennial,35,Female,Employed,Diploma,6.1,4,2.2,4.0,3.2,3.2,3.4,3.2
+Millennial,27,Female,Employed,Diploma,6.4,1,4.2,3.2,2.6,3.0,3.4,2.8
+Millennial,37,Female,Unemployed,Diploma,1.5,1,3.4,3.0,2.6,2.8,2.8,3.2
+Millennial,37,Female,Unemployed,Bachelor,3.5,2,3.2,3.0,2.6,3.0,3.2,4.4
+Millennial,36,Male,Employed,Bachelor,1.8,4,3.4,3.0,3.2,3.4,2.6,4.0
+Millennial,38,Male,Self-employed,Masters,7.0,4,3.4,3.6,3.2,4.0,2.8,3.0
+Millennial,38,Male,Student,High School,5.4,2,3.4,3.4,3.0,2.0,3.4,2.6
+Millennial,40,Male,Unemployed,Diploma,3.3,3,2.0,2.2,4.0,3.2,3.6,2.6
+Millennial,40,Male,Unemployed,Diploma,1.4,1,3.4,2.4,2.8,4.2,2.0,2.6
+Millennial,40,Male,Employed,Masters,3.2,5,3.4,2.4,3.2,1.6,1.6,3.2
+Millennial,29,Male,Self-employed,High School,3.3,1,2.8,2.8,4.2,3.4,2.6,3.6
+Millennial,38,Female,Self-employed,High School,6.1,1,3.6,3.4,3.0,3.2,3.0,3.8
+Millennial,33,Male,Student,Diploma,5.5,3,2.2,2.8,2.6,3.8,2.2,4.0
+Millennial,30,Male,Unemployed,Diploma,7.2,1,4.2,3.2,2.0,2.6,1.8,4.2
+Millennial,35,Male,Self-employed,Diploma,4.3,2,2.2,3.0,2.0,2.0,3.6,3.4
+Millennial,29,Male,Unemployed,High School,1.8,2,2.6,1.8,3.2,3.6,3.2,3.6
+Millennial,31,Female,Self-employed,Masters,6.0,4,3.0,3.0,3.4,4.2,3.2,3.8
+Millennial,29,Female,Student,Diploma,6.3,5,3.8,2.6,2.8,2.4,2.2,3.6
+Millennial,33,Female,Employed,Masters,4.9,1,3.2,2.8,2.6,3.0,3.6,3.4
+Millennial,31,Male,Student,Bachelor,6.4,1,2.4,2.8,3.2,3.0,1.8,3.4
+Millennial,35,Female,Unemployed,High School,4.5,3,3.0,3.6,3.0,3.6,3.0,3.0
+Millennial,33,Male,Unemployed,Masters,4.7,2,2.8,3.2,3.0,2.8,2.6,3.6
+Millennial,28,Male,Unemployed,Masters,4.0,5,1.6,3.0,3.4,4.4,3.6,1.8
+Millennial,30,Female,Employed,Masters,1.2,4,3.2,3.4,3.2,3.2,2.8,2.6
+Millennial,35,Female,Student,Masters,1.8,2,3.4,2.2,3.6,2.4,3.6,2.2
+Millennial,38,Female,Unemployed,Masters,1.2,4,2.8,3.4,2.8,2.8,4.0,3.4
+Millennial,40,Female,Unemployed,High School,5.5,3,3.6,3.6,2.8,2.8,3.4,2.8
+Millennial,28,Female,Student,Diploma,3.2,3,4.2,2.2,3.4,3.2,4.0,4.0
+Millennial,36,Female,Employed,High School,4.6,1,3.0,3.8,2.8,4.2,3.8,2.6
+Millennial,35,Male,Student,Diploma,7.4,5,3.6,2.2,2.2,2.8,3.8,3.6
+Millennial,36,Male,Unemployed,High School,2.7,4,2.4,3.6,1.8,2.8,2.2,3.2
+Millennial,31,Male,Unemployed,Diploma,3.9,2,3.4,2.6,2.4,3.4,3.0,3.0
+Millennial,28,Male,Student,Masters,6.3,3,2.0,1.8,3.6,3.2,2.8,3.4
