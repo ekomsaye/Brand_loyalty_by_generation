@@ -25,27 +25,32 @@ The study aimed to:
 - Education and occupation **did not significantly** affect loyalty.
 
 ## 📁 Repository Structure
-
+```
 ├── data/ # Raw or simulated dataset
+
 ├── analysis/ # Jupyter notebooks or scripts
+
 ├── report/ # Final analysis report (PDF or DOCX)
+
 ├── visuals/ # Plots and figures
+
 └── README.md
 
+```
 
 ## 📈 Sample Visuals
 
 *📍 Spearman Rank Correlation for Population*
-![Spearman Rank Correlation](images/totalarima.png)
+![Spearman Rank Correlation](images/Spearman_Correlation_heatmap.png)
 
 *📍 Distribution of Satisfaction Scores*
-![Distribution of Satisfaction Scores](images/totalarima.png)
+![Distribution of Satisfaction Scores](images/Spread_of_Satisfaction_Scores.png)
 
 *📍 Trust vs. Loyalty*
-![Trust vs. Loyalty](images/totalarima.png)
+![Trust vs. Loyalty](images/Trust_vs._Loyalty.png)
 
 *📍 Switch Likelihood by Generation*
-![Switch_Likelihood_by_Generation](images/totalarima.png)
+![Switch_Likelihood_by_Generation](images/Switch_Likelihood_Social_Media_Hours_by_Generation.png)
 
 
 ## 📬 Connect With Me
